@@ -18,7 +18,15 @@ console.log('Ciao');
 
 // Fase 3: Elaborazione
 for (let i = 1; i < 101; i++) {
-    console.log(i);
+    if (i == ) {
+        console.log('Fizz');
+    } else if (i == ) {
+        console.log('Buzz');
+    } else if (i == ) {
+        console.log('FizzBuzz');
+    } else {
+        console.log(i);
+    }
 }
 
 //Fase 4: Output
