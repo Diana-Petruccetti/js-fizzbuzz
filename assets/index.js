@@ -9,6 +9,7 @@ console.log('Ciao');
 // Creare variabili
 // Creare condizioni
 
+
 // Fase 1: Preparazione
 
 
@@ -16,6 +17,8 @@ console.log('Ciao');
 
 
 // Fase 3: Elaborazione
-
+for (let i = 1; i < 101; i++) {
+    console.log(i);
+}
 
 //Fase 4: Output
