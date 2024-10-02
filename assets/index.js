@@ -16,13 +16,13 @@ console.log('Ciao');
 // Fase 2: Raccolta Dati
 
 
-// Fase 3: Elaborazione
-for (let i = 1; i < 101; i++) {
-    if (i == ) {
+// Fase 3: Elaborazione Dati
+for (let i = 1; i <= 100; i++) {
+    if (i % 15 === 0 ) {
         console.log('Fizz');
-    } else if (i == ) {
+    } else if (i % 5 === 0 ) {
         console.log('Buzz');
-    } else if (i == ) {
+    } else if (i % 3 === 0 ) {
         console.log('FizzBuzz');
     } else {
         console.log(i);
